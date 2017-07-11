@@ -1,0 +1,22 @@
+{
+  "name": "react-navigation-slide-from-right-transition",
+  "version": "1.0.0",
+  "description": "a slide from right transition for use with react navigation on android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "navigator",
+    "transition",
+    "animation"
+  ],
+  "author": "Travis Nuttall",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "*",
+    "react-navigation": "*"
+  }
+}
