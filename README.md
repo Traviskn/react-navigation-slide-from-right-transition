@@ -10,20 +10,20 @@ transition config into this library.  See the corresponding issue [here](https:/
 ## Installation and Usage
 
 - Install this library
-`npm install --save react-navigation-slide-from-right-transition-config`
+`npm install --save react-navigation-slide-from-right-transition`
 
 - Pass down the custom transition configuration to your `react-navigation` StackNavigator:
 
 ```javascript
 import { StackNavigator } from 'react-navigation';
-import getSlideFromRightTransitionConfig from 'react-navigation-slide-from-right-transition-config';
+import getSlideFromRightTransition from 'react-navigation-slide-from-right-transition';
 
 const SimpleStack = StackNavigator({
   Home: {
     screen: MyHomeScreen
   }
 }, {
-  transitionConfig: getSlideFromRightTransitionConfig
+  transitionConfig: getSlideFromRightTransition
 });
 ```
 
