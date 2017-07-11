@@ -18,5 +18,6 @@
   "peerDependencies": {
     "react-native": "*",
     "react-navigation": "*"
-  }
+  },
+  "files": ["index.js"]
 }
