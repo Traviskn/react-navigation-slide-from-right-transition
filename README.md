@@ -42,9 +42,9 @@ Check out the example app included in the github repo to see the slide-from-righ
 I assume you already have the react-native-cli installed, as well as the required Android dependencies.
 
 ```
-git clone https://github.com/Traviskn/react-native-uuid-generator.git
+git clone https://github.com/Traviskn/react-navigation-slide-from-right-transition.git
 
-cd react-native-uuid-generator/example
+cd react-navigation-slide-from-right-transition/example
 npm install
 ```
 
