@@ -1,6 +1,6 @@
 {
   "name": "react-navigation-slide-from-right-transition",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a slide from right transition for use with react navigation on android",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,7 @@
     "react-native": "*",
     "react-navigation": "*"
   },
-  "files": ["index.js"]
+  "files": [
+    "index.js"
+  ]
 }
