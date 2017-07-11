@@ -53,7 +53,7 @@ function forHorizontal(props) {
   };
 }
 
-export default getSlideFromRightTransitionConfig() {
+export default function getSlideFromRightTransitionConfig() {
   return {
     transitionSpec: {
       duration: 500,
