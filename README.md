@@ -2,6 +2,8 @@
 
 This is a slide from right transition config ported from the codebase of [react navigation](https://github.com/react-community/react-navigation/) to enable usage on Android.
 
+![Example App Screen Capture](https://raw.githubusercontent.com/traviskn/react-navigation-slide-from-right-transition/master/static/react-navigation-slide-from-right.gif)
+
 ## Motivation
 On iOS, the default transition animation for React Navigation's card stack is a slide from right animation.
 I had a project which required the same slide from right animation on Android, so I decided to pull out the
