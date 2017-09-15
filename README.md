@@ -1,5 +1,7 @@
 # Slide From Right Transition Config for React Navigation
 
+[![npm version](https://img.shields.io/npm/v/react-navigation-slide-from-right-transition.svg?style=flat-square)](https://www.npmjs.com/package/react-navigation-slide-from-right-transition) [![downloads](https://img.shields.io/npm/dm/react-navigation-slide-from-right-transition.svg?style=flat-square)](https://www.npmjs.com/package/react-navigation-slide-from-right-transition)
+
 This is a slide from right transition config ported from the codebase of [react navigation](https://github.com/react-community/react-navigation/) to enable usage on Android.
 
 ![Example App Screen Capture](https://raw.githubusercontent.com/traviskn/react-navigation-slide-from-right-transition/master/static/react-navigation-slide-from-right.gif)
